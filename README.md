@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Chilli02
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning java, python, javascript
+- 👋 Hi, I’m @Chirayu Nair
 - 💞️ I’m looking to collaborate on basic projects
 - 📫 How to reach me ...
 
